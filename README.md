@@ -9,7 +9,7 @@ Through my work, I aim to bridge the gap between software engineering and cybers
 
 ## Objective
 
-My journey in computer science and software developemnt has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to land a rose as a Security Analyst or Security Engineer.
+My background in computer science and backend software development has naturally evolved into a deep interest in cybersecurity. Through hands-on experience building systems for high-stakes environments, I’ve come to appreciate the critical role security plays in every layer of technology. I'm now focused on transitioning into the cybersecurity field, with a strong interest in roles such as Security Analyst or Security Engineer. My goal is to apply my development expertise, analytical mindset, and growing security skillset to help organizations build secure, resilient systems from the ground up.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
