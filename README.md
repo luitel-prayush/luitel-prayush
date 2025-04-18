@@ -21,7 +21,7 @@ My background in computer science and backend software development has naturally
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Python and Flask development | <a href="https://github.com/luitel-prayush/PasswordStrengthChecker"> PasswordStrengthChecker</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
