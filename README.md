@@ -43,14 +43,11 @@ My background in computer science and backend software development has naturally
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+## Certifications + Certificates
 <div>
 <a href="https://www.credly.com/badges/a02f7b39-1468-4e9d-ba38-2ed8329ec91c/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"/></a>
-<a href="https://coursera.org/share/151a7e5596c3117baaab30f63087e88c"><img src="https://img.shields.io/badge/-Cybersecurity-Professionals?&style=for-the-badge&logo=Google&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://www.credly.com/earner/earned/badge/01db20e2-0dfa-4056-8805-9efa3cc4f111"><img src="https://img.shields.io/badge/-Cloud_Practioner-4D4D4D?&style=for-the-badge&logo=amazonwebservices&logoColor=white"/></a>
+<a href="https://coursera.org/share/151a7e5596c3117baaab30f63087e88c"><img src="https://img.shields.io/badge/-Cybersecurity-yellow?&style=for-the-badge&logo=Google&logoColor=white"/></a>
 </div>
 
 ## Projects
