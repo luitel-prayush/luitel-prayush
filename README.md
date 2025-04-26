@@ -12,7 +12,6 @@ Through my work, I aim to bridge the gap between software engineering and cybers
 My background in computer science and backend software development has naturally evolved into a deep interest in cybersecurity. Through hands-on experience building systems for high-stakes environments, I’ve come to appreciate the critical role security plays in every layer of technology. I'm now focused on transitioning into the cybersecurity field, with a strong interest in roles such as Security Analyst or Security Engineer. My goal is to apply my development expertise, analytical mindset, and growing security skillset to help organizations build secure, resilient systems from the ground up.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Work         |
 |-----------------------------------------------|----------------------------|
@@ -21,7 +20,6 @@ My background in computer science and backend software development has naturally
 | Python + Flask development | <a href="https://github.com/luitel-prayush/PasswordStrengthChecker"> PasswordStrengthChecker</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
