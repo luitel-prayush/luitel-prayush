@@ -16,9 +16,9 @@ My background in computer science and backend software development has naturally
 
 | Skill                                         | Associated Work         |
 |-----------------------------------------------|----------------------------|
-| Python and Network Sniffing          | <a href="https://github.com/luitel-prayush/NetworkSniffer/tree/main">NetworkSniffer</a>|
+| Python + Packet Analysis          | <a href="https://github.com/luitel-prayush/NetworkSniffer/tree/main">NetworkSniffer</a>|
 | Network Traffic Analysis | <a href="https://github.com/luitel-prayush/working-with-wireshark">Wireshark Practice</a>|
-| Python and Flask development | <a href="https://github.com/luitel-prayush/PasswordStrengthChecker"> PasswordStrengthChecker</a>|
+| Python + Flask development | <a href="https://github.com/luitel-prayush/PasswordStrengthChecker"> PasswordStrengthChecker</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
