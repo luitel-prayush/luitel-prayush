@@ -43,7 +43,7 @@ My background in computer science and backend software development has naturally
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications + Certificates
+## Certifications
 <div>
 <a href="https://www.credly.com/badges/a02f7b39-1468-4e9d-ba38-2ed8329ec91c/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"/></a>
 <a href="https://www.credly.com/earner/earned/badge/01db20e2-0dfa-4056-8805-9efa3cc4f111"><img src="https://img.shields.io/badge/-Cloud_Practioner-4D4D4D?&style=for-the-badge&logo=amazonwebservices&logoColor=white"/></a>
