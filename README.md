@@ -1,5 +1,5 @@
 # Hello, I'm Prayush Luitel
-<a href="www.linkedin.com/in/prayush-luitel"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/prayush-luitel"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a Backend Software Developer and Consultant at CGI Inc., where I currently work on mission-critical systems for a major financial institution. My role involves building scalable, high-performance backend services that support secure and reliable digital experiences for millions of users.
 
