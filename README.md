@@ -47,7 +47,7 @@ My background in computer science and backend software development has naturally
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://www.credly.com/badges/a02f7b39-1468-4e9d-ba38-2ed8329ec91c/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"/></a>
-<a href="https://www.credly.com/badges/a02f7b39-1468-4e9d-ba38-2ed8329ec91c/public_url"><img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png =100x20?&style=for-the-badge&logo=CompTIA&logoColor=white/></a>
+<a href="https://coursera.org/share/151a7e5596c3117baaab30f63087e88c"><img src="https://img.shields.io/badge/-Cybersecurity-Professionals?&style=for-the-badge&logo=Google&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
