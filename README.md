@@ -48,6 +48,33 @@ My background in computer science and backend software development has naturally
 <a href="https://coursera.org/share/151a7e5596c3117baaab30f63087e88c"><img src="https://img.shields.io/badge/-Cybersecurity-yellow?&style=for-the-badge&logo=Google&logoColor=white"/></a>
 </div>
 
+## Hack The Box 
+<div>
+<a href= "https://www.hackthebox.com/"><img src="https://img.shields.io/badge/-Hack_The_Box-green?&style=for-the-badge&logo=hackthebox&logoColor=white"/></a>
+</div>
+
+HackTheBox(HTB) is an online platform where you can practice and improve your cybersecurity skills by solving challenges and hacking into virtual machines (VMs) in a safe, legal environment. It’s used by beginners and experts to learn ethical hacking, penetration testing, and security concepts through hands-on practice
+
+### HTB Academy
+HTB Academy is like an online cybersecurity school. It offers structured, course-like learning modules that teach you cybersecurity skills step-by-step, starting from basics to advanced topics.
+
+
+#### SOC Analyst Path
+1) Incident Handling Process :heavy_check_mark:
+2) Security Monitoring & SIEM Fundamentals
+3) Windows Event Logs & Finding Evil
+4) Introduction to Threat Hunting & Hunting With Elastic
+5) Understanding Log Sources & Investigating with Splunk
+6) Windows Attacks & Defense
+7) Intro to Network Traffic Analysis
+8) Intermediate Network Traffic Analysis
+9) Working with IDS/IPS
+10) Introduction to Malware Analysis
+11) JavaScript Deobfuscation
+12) YARA & Sigma for SOC Analysts
+13) Introduction to Digital Forensics
+14) Detecting Windows Attacks with Splunk
+15) Security Incident Reporting
+
 ## Projects
-- Detection Lab
-- SOC Automation Project
+Coming Soon...
