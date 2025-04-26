@@ -16,11 +16,8 @@ My background in computer science and backend software development has naturally
 
 | Skill                                         | Associated Work         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Python and Network Sniffing          | <a href="https://github.com/luitel-prayush/NetworkSniffer/tree/main">NetworkSniffer</a>|
 | Network Traffic Analysis | <a href="https://github.com/luitel-prayush/working-with-wireshark">Wireshark Practice</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
 | Python and Flask development | <a href="https://github.com/luitel-prayush/PasswordStrengthChecker"> PasswordStrengthChecker</a>|
 
 ## Tools
