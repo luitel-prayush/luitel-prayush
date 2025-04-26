@@ -3,7 +3,7 @@
 
 I'm a Backend Software Developer and Consultant at CGI Inc., where I currently work on mission-critical systems for a major financial institution. My role involves building scalable, high-performance backend services that support secure and reliable digital experiences for millions of users.
 
-From the start of my career, I’ve been driven by a deep curiosity about how technology works. Over time, this interest evolved into a focused passion for cybersecurity and secure software development. I’m particularly interested in areas like application security, secure API design, threat modeling, and DevSecOps practices. I actively seek opportunities to expand my knowledge in these domains, whether through personal projects, certifications, or ongoing research.
+From the start of my career, I have been driven by a deep curiosity about how technology works. Over time, this interest evolved into a focused passion for cybersecurity and secure software development. I’m particularly interested in areas like application security, secure API design, threat modeling, and DevSecOps practices. I actively seek opportunities to expand my knowledge in these domains, whether through personal projects, certifications, or ongoing research.
 
 Through my work, I aim to bridge the gap between software engineering and cybersecurity — helping build systems that are not only functional and scalable but also resilient to today’s evolving threat landscape.
 
