@@ -55,11 +55,11 @@ My background in computer science and backend software development has naturally
 
 HackTheBox(HTB) is an online platform where you can practice and improve your cybersecurity skills by solving challenges and hacking into virtual machines (VMs) in a safe, legal environment. It’s used by beginners and experts to learn ethical hacking, penetration testing, and security concepts through hands-on practice
 
-### HTB Academy
+## HTB Academy
 HTB Academy is like an online cybersecurity school. It offers structured, course-like learning modules that teach you cybersecurity skills step-by-step, starting from basics to advanced topics.
 
 
-#### SOC Analyst Path
+### SOC Analyst Path
 1) Incident Handling Process :heavy_check_mark:
 2) Security Monitoring & SIEM Fundamentals
 3) Windows Event Logs & Finding Evil
