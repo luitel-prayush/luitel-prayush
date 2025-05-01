@@ -61,7 +61,7 @@ HTB Academy is like an online cybersecurity school. It offers structured, course
 
 ### SOC Analyst Path
 1) Incident Handling Process :heavy_check_mark:
-2) Security Monitoring & SIEM Fundamentals
+2) Security Monitoring & SIEM Fundamentals    :heavy_check_mark:
 3) Windows Event Logs & Finding Evil
 4) Introduction to Threat Hunting & Hunting With Elastic
 5) Understanding Log Sources & Investigating with Splunk
