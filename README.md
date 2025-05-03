@@ -41,6 +41,11 @@ My background in computer science and backend software development has naturally
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Diagnostic
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Event_Viewer-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <a href="https://www.credly.com/badges/a02f7b39-1468-4e9d-ba38-2ed8329ec91c/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"/></a>
@@ -55,11 +60,11 @@ My background in computer science and backend software development has naturally
 
 HackTheBox(HTB) is an online platform where you can practice and improve your cybersecurity skills by solving challenges and hacking into virtual machines (VMs) in a safe, legal environment. It’s used by beginners and experts to learn ethical hacking, penetration testing, and security concepts through hands-on practice
 
-## HTB Academy
+### HTB Academy
 HTB Academy is like an online cybersecurity school. It offers structured, course-like learning modules that teach you cybersecurity skills step-by-step, starting from basics to advanced topics.
 
 
-### SOC Analyst Path
+#### SOC Analyst Path
 1) Incident Handling Process :heavy_check_mark:
 2) Security Monitoring & SIEM Fundamentals    :heavy_check_mark:
 3) Windows Event Logs & Finding Evil
